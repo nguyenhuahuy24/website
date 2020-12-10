@@ -1,0 +1,104 @@
+{
+    "khutro": [
+      {
+        "id": "1000",
+        "code": "f230fh0g3",
+        "name": "Bamboo Watch",
+        "description": "Product Description",
+        "price": 65,
+        "address": "Thủ Đức",
+        "inventoryStatus": "INSTOCK"
+      },
+      {
+        "id": "1001",
+        "code": "nvklal433",
+        "name": "Black Watch",
+        "description": "Product Description",
+        "price": 72,
+        "address": "Quận 9",
+        "inventoryStatus": "INSTOCK"
+      },
+      {
+        "id": "1002",
+        "code": "zz21cz3c1",
+        "name": "Blue Band",
+        "description": "Product Description",
+        "price": 79,
+        "address": "PL",
+        "inventoryStatus": "LOWSTOCK"
+      },
+      {
+        "id": "1003",
+        "code": "244wgerg2",
+        "name": "Blue T-Shirt",
+        "description": "Product Description",
+        "price": 29,
+        "address": "Description",
+        "inventoryStatus": "INSTOCK"
+      },
+      {
+        "id": "1004",
+        "code": "h456wer53",
+        "name": "Bracelet",
+        "description": "Product Description",
+        "price": 15,
+        "address": "Description",
+        "inventoryStatus": "INSTOCK"
+      },
+      {
+        "id": "1005",
+        "code": "av2231fwg",
+        "name": "Brown Purse",
+        "description": "Product Description",
+        "price": 120,
+        "address": "Description",
+        "inventoryStatus": "OUTOFSTOCK"
+      },
+      {
+        "id": "1006",
+        "code": "bib36pfvm",
+        "name": "Chakra Bracelet",
+        "description": "Product Description",
+        "price": 32,
+        "address": "Description",
+        "inventoryStatus": "LOWSTOCK"
+      }
+    ],
+    "nhatro": [
+      {
+        "id": "10",
+        "idP": "1000",
+        "code": "f230fh0g3",
+        "name": "Bamboo",
+        "price": 32
+      },
+      {
+        "id": "11",
+        "idP": "1000",
+        "code": "nvklal433",
+        "name": "Blac",
+        "price": 32
+      },
+      {
+        "id": "1002",
+        "idP": "1000",
+        "code": "zz21cz3c1",
+        "name": "Blue Band",
+        "price": 32
+      },
+      {
+        "id": "1003",
+        "idP": "1001",
+        "code": "244wgerg2",
+        "name": "Blue T-Shirt",
+        "price": 32
+      },
+      {
+        "id": "1004",
+        "code": "h456wer53",
+        "name": "Bracelet",
+        "price": 32
+      }
+    ]
+  }
+    
